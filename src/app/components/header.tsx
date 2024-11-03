@@ -42,7 +42,7 @@ export default function Header() {
         <div className="right">
           <Image
             alt="header-image"
-            src="/header/header_image.png"
+            src="/header/hero_image.png"
             width={550}
             height={550}
             layout="responsive"
